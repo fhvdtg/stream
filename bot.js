@@ -20,4 +20,4 @@ client.on('ready', function(){
     });
     }, 5000);
 });
-client.login("token");
+client.login("NDM2OTE4MTIwMTg0MDIxMDEy.XKuYUg.cYn3o4H3vD4R2Fz2NDniZ8kiovU");
