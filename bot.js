@@ -10,8 +10,8 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: 'I AM BAD',
-    application_id: '477187715658547201', // ايدي البوت او ايدي الحساب
+    name: 'الموت',
+    application_id: '568803607663738890', // ايدي البوت او ايدي الحساب
       assets: {
          large_image:   `${s[Math.floor(Math.random() * s.length)]}`,
   
